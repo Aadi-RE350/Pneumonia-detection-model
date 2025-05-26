@@ -1,3 +1,7 @@
+## Architecture of the model
+
+![alt text](V1_Pneumonia_detection.h5.svg)
+
 ## Result
 >Training Result - 90.74%
 
